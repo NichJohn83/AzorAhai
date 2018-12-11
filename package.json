@@ -1,0 +1,28 @@
+{
+  "name": "azorahai",
+  "version": "1.0.0",
+  "description": "this is the api layer and backend code for my personal portal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NichJohn83/AzorAhai.git"
+  },
+  "keywords": [
+    "personal",
+    "portal",
+    "nicholas",
+    "johnson"
+  ],
+  "author": "Nicholas Anthony Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NichJohn83/AzorAhai/issues"
+  },
+  "homepage": "https://github.com/NichJohn83/AzorAhai#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
